@@ -1,2 +1,2 @@
-# RushCrusade
+# RustCrusade
 prout the game
